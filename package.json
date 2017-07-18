@@ -1,0 +1,22 @@
+{
+    "name": "darktooth-updated-theme",
+    "displayName": "Darktooth Updated Theme",
+    "description": "Updated version of the Darktooth theme.",
+    "version": "0.0.1",
+    "publisher": "osminogin",
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darktooth Updated Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darktooth Updated Theme-color-theme.json"
+            }
+        ]
+    }
+}
