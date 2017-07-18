@@ -1,0 +1,13 @@
+{
+    "name": "Darkcog",
+    "type": "dark",
+    "colors": {
+        "statusBar.background": "#181818",
+        "statusBar.foreground": "#504945",
+        "editor.background": "#181818",
+        "editorError.foreground": "#FB4933",
+        "statusBar.debuggingBackground": "#1818181",
+        "statusBar.debuggingForeground": "#DD6F48"
+    },
+    "tokenColors": "./vscode-theme-darkcog.tmTheme"
+}
