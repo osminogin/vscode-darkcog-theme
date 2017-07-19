@@ -4,8 +4,10 @@
     "colors": {
         "statusBar.background": "#181818",
         "statusBar.foreground": "#504945",
+        "statusBar.border": "#434343",
         "editor.background": "#181818",
         "editorError.foreground": "#FB4933",
+        "panel.background": "#000",
         "statusBar.debuggingBackground": "#1818181",
         "statusBar.debuggingForeground": "#DD6F48"
     },
