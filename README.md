@@ -1,13 +1,15 @@
-# README
-## This is the README for your extension "darktooth-updated-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Darkcog color scheme
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+<a href="https://github.com/osminogin/vscode-darkcog-theme/releases/tag/v0.0.1"><img src="https://img.shields.io/badge/Darkcog-v0.0.1-282828.svg?style=flat-square"/></a> <a href="https://code.visualstudio.com/updates/v1_12"><img src="https://img.shields.io/badge/VS_Code-v1.12+-373277.svg?style=flat-square"/></a>
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+An Darkcog color scheme for VS Code based on [port](https://github.com/Poorchop/darktooth-theme-ports) of the [Darktooth theme](https://github.com/emacsfodder/emacs-theme-darktooth) for Emacs.
 
-**Enjoy!**
+Darker comments. Status bar color theming. Best language support.
+
+#### Screenshot
+
+![Preview](https://raw.githubusercontent.com/osminogin/vscode-darkcog-theme/master/screenshots/preview.png)
+
+#### License
+
+MIT
