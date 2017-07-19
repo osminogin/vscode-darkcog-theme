@@ -1,21 +1,36 @@
 {
-    "name": "darktooth-updated-theme",
-    "displayName": "Darktooth Updated Theme",
+    "name": "darkcog-theme",
+    "displayName": "Darkcog Theme",
     "description": "Updated version of the Darktooth theme.",
     "version": "0.0.1",
     "publisher": "osminogin",
+    "license": "MIT",
     "engines": {
-        "vscode": "^1.14.0"
+        "vscode": "^1.12.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "dark",
+        "emacs"
+    ],
+    "bugs": {
+        "url": "https://github.com/osminogin/vscode-darkcog-theme/issues",
+        "email": "oc@co.ru"
+    },
+    "homepage": "https://github.com/osminogin/vscode-darkcog-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/osminogin/vscode-darkcog-theme"
+    },
     "contributes": {
         "themes": [
             {
-                "label": "Darktooth Updated Theme",
+                "label": "Darkcog",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Darktooth Updated Theme-color-theme.json"
+                "path": "./themes/vscode-theme-darkcog.json"
             }
         ]
     }
